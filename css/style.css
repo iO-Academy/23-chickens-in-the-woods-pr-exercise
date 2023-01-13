@@ -18,6 +18,25 @@ body {
 /* Amyas code below */
 
 /* Chloe code below */
+.hello {
+	font-family: 'Courier New';
+	font-size: 20px;
+}
+
+.where-am-i {
+	display: flex;
+	width: 220px;
+	height: 150px;
+	border: solid red;
+}
+
+.chicken {
+	display: flex;
+	width: 220px;
+	height: 150px;
+	padding: 20px;
+	border: dotted;
+}
 
 /* Bill code below */
 
