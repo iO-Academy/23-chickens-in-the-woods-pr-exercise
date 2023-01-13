@@ -13,6 +13,32 @@ body {
 
 /* Dan code below */
 
+.this {
+	color: purple;
+}
+
+.is {
+	color: red;
+}
+
+.a {
+	color: green;
+}
+
+.text {
+	color: blue;
+}
+
+.The {
+	font-style: italic;
+}
+
+.fourth {
+	text-decoration: underline;
+	font-weight: bold;
+}
+
+
 /* Robin code below */
 
 /* Amyas code below */
