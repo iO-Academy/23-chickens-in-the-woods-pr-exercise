@@ -18,6 +18,11 @@ body {
 
 .Melody p {
 	font-style: italic;
+}
+
+.Melody img{ 
+	margin: 20px;
+	height: 300px;
 	
 }
 
