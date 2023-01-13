@@ -11,6 +11,16 @@ body {
 
 /* Melody code below */
 
+.Melody h2 {
+	color: rgb(38, 92, 23);
+	font-size: 32px;
+}
+
+.Melody p {
+	font-style: italic;
+	
+}
+
 /* Dan code below */
 
 /* Robin code below */
