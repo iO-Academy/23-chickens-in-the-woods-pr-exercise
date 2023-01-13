@@ -21,4 +21,18 @@ body {
 
 /* Bill code below */
 
+.Bill /* container */{
+	display: flex;
+	justify-content: center;
+}
+
+img {
+	width: 170px;
+	margin: 50px;
+}
+
+* {
+	box-sizing: border-box;
+}
+
 /* Adam is skiing */
