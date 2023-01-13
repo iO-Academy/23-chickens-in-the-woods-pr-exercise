@@ -26,6 +26,15 @@ body {
 	margin: 0 auto;
 	padding: 15px;
 }
+
+.pub {
+	text-decoration: none;
+	color: #BFAE2B;
+	font-family: 'Marker Felt';
+	font-size: 50px;
+	padding: 200px;
+	margin: 0 auto;
+}
 /* Chloe code below */
 
 /* Bill code below */
