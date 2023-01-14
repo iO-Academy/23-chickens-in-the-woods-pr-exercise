@@ -42,7 +42,25 @@ body {
 /* Robin code below */
 
 /* Amyas code below */
+.Amyas {
+	font-family: 'Marker Felt';
+	font-size: 30px;
+	color: #922A14;
+	border: 5px solid #922A14;
+	border-radius: 5px;
+	max-width: 800px;
+	margin: 0 auto;
+	padding: 15px;
+}
 
+.pub {
+	text-decoration: none;
+	color: #BFAE2B;
+	font-family: 'Marker Felt';
+	font-size: 50px;
+	padding: 200px;
+	margin: 0 auto;
+}
 /* Chloe code below */
 .hello {
 	font-family: 'Courier New';
