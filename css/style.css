@@ -11,6 +11,21 @@ body {
 
 /* Melody code below */
 
+.Melody h2 {
+	color: rgb(38, 92, 23);
+	font-size: 32px;
+}
+
+.Melody p {
+	font-style: italic;
+}
+
+.Melody img{ 
+	margin: 20px;
+	height: 300px;
+	
+}
+
 /* Dan code below */
 
 .this {
